@@ -41,16 +41,12 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="ghttps://github-readme-stats-ixxoa6pm7-raspberryspendice.vercel.app/api/top-langs/?username=DebTheDev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
   
-<!-- 
-![GitHub stats](https://github-readme-stats-ixxoa6pm7-raspberryspendice.vercel.app/api?username=RaspberrySpendice&show_icons=true&theme=nightowl)
+[![Top Langs]( https://github-readme-stats-rho-beryl.vercel.app/api/top-langs/?username=RaspberrySpendice&layout=compact)](https://github.com/RaspberrySpendice/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-stats-ixxoa6pm7-raspberryspendice.vercel.app/?user=RaspberrySpendice)   -->
   
-  ![Top Langs](https://github-readme-stats-ixxoa6pm7-raspberryspendice.vercel.app/api/top-langs/?username=RaspberrySpendice&theme=nightowl)
+![RaspberrySpendice's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaspberrySpendice&show_icons=true&theme=midnight-purple)
+
 </details>
 
 
